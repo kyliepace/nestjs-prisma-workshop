@@ -1,4 +1,5 @@
 # Building a REST API with NestJS and prisma
+[workshop notes](https://www.notion.so/Building-a-REST-API-with-NestJS-and-Prisma-8296846a0fc54ac0b445ae9364805669)
 
 This repository contains the starter project for the **Building a REST API with NestJS and Prisma** workshop by [Marc Stammerjohann](https://twitter.com/mrcjln).
 ## Getting Started
