@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // prisma/seed.ts
+=======
+>>>>>>> jwt-auth-complete
 import { PrismaClient } from '@prisma/client';
 import { products } from '../products';
 
